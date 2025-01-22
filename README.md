@@ -56,7 +56,7 @@ Enter the transition function:
 This is a project for the languages theory class.
 
 By :
-Ouissal Benameur,Oumaima Kabbouri and Charaf Boughriba under the supervision of Dr. Youssef Baddi.
+Ouissal B.,Oumaima K. and Charaf B. under the supervision of Dr. Youssef Baddi.
 
 
  
